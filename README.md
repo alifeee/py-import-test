@@ -20,4 +20,6 @@ astropy.cosmology...
 
 This repository aims to replicate the structure of [astropy] with monkeys.
 
+See [./importer.py](./importer.py)
+
 [astropy]: https://github.com/astropy/astropy
