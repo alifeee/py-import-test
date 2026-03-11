@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/py-import-test/about/>
 # Python Import Test
 
 Why can one not use [astropy] like this?
